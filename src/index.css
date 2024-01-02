@@ -1,0 +1,13 @@
+:root {
+  --bg-background: #1E0B01;
+  --primary-text-color: #C6A366;
+}
+
+body {
+  background-color: var(--bg-background);
+  overflow-x: hidden;
+  padding: 0;
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+}

@@ -1,0 +1,62 @@
+:root {
+  --bg-background: #1F1F1F;
+  --bs-primaryBrown: #1E0B01;
+  --bs-secondaryBrown:#CF9C67;
+}
+
+.nav-link {
+  color: white;
+}
+
+.bg-primaryBrown { 
+  background-color: var(--bs-primaryBrown);
+} 
+
+.bg-secondaryBrown { 
+  background-color: var(--bs-secondaryBrown);
+}
+
+.text-primaryBrown {
+  color: var(--bs-primaryBrown);
+}
+
+.text-secondaryBrown {
+  color: var( --bs-secondaryBrown);
+}
+
+
+.mainText {
+  font-size: 4.6em;
+  font-weight: 800;
+  color: var(--bs-primaryBrown);
+}
+
+.btn-primaryBrown {
+  background-color: var(--bs-primaryBrown);
+  color: white;
+}
+
+.btn-primaryBrown:hover {
+  /* background-color: var(--bs-secondaryBrown); */
+  color: var(--bs-secondaryBrown); 
+}
+
+.btn-secondaryBrown {
+  border: 1px solid var(--bs-secondaryBrown);
+  color: var(--bs-secondaryBrown); 
+}
+
+.btn-secondaryBrown:hover {
+  background-color: var(--bs-secondaryBrown);
+  color: var(--bs-primaryBrown); 
+  font-weight: 600;
+}
+
+.text-primaryBrown {
+  color: var( --bs-primaryBrown);
+}
+
+
+.border-secondaryBrown{ 
+  border: 1px solid var(--bs-secondaryBrown);
+}
