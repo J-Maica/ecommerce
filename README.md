@@ -1,3 +1,8 @@
+# PROJECT STATUS:
+- This project is my practice in making ecommerce front-end and is currently under active development. The UI/responsiveness is still in progress, function 80% complete.
+
+
+  
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
